@@ -3,7 +3,7 @@ An image classifier able to identify 102 types of flowers. The train.py file wil
 of flower images in a given directory. The predict.py file will then predict the type of flower in a submitted image.
 
 # Requirements 
-Both files rely on Pytorch in order to run \n
+Both files rely on Pytorch in order to run    
 For training the network, the directory should be structured:
 `folder/labels/images`
 
