@@ -4,6 +4,8 @@ of flower images in a given directory. The predict.py file will then predict the
 
 # Requirements 
 Both files rely on Pytorch in order to run
+For training the network, the directory should be structured:
+`folder/labels/images`
 
 # How To Run
 The application runs from the command line, examples of how to run each file can be found below
